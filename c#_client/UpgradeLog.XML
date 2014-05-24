@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="image_transfreer-client">
+</Property><Property Name="Solution File" Value="C:\Users\Mohammad\Downloads\Compressed\image_transfreer-client\image_transfreer-client.sln">
+</Property><Property Name="Date" Value="Friday, May 23, 2014">
+</Property><Property Name="Time" Value="18:20 PM">
+</Property></Properties><Event ErrorLevel="0" Project="image_transfreer-client" Source="image_transfreer-client\image_transfreer-client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="image_transfreer-client" Source="image_transfreer-client\image_transfreer-client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="image_transfreer-client.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="image_transfreer-client.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="image_transfreer-client" Source="image_transfreer-client\image_transfreer-client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

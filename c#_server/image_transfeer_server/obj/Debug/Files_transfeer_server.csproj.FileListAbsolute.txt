@@ -1,0 +1,16 @@
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\image_transfeer_server\image_transfeer_server\bin\Debug\Files_transfeer_server.exe
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\image_transfeer_server\image_transfeer_server\bin\Debug\Files_transfeer_server.pdb
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\image_transfeer_server\image_transfeer_server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.server.resources
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.Properties.Resources.resources
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.csproj.GenerateResource.Cache
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.exe
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.pdb
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\Synchronization  Client -Server\image_transfeer_server\image_transfeer_server\bin\Debug\Files_transfeer_server.exe
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\Synchronization  Client -Server\image_transfeer_server\image_transfeer_server\bin\Debug\Files_transfeer_server.pdb
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\Synchronization  Client -Server\image_transfeer_server\image_transfeer_server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\Synchronization  Client -Server\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.server.resources
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\Synchronization  Client -Server\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.Properties.Resources.resources
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\Synchronization  Client -Server\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.csproj.GenerateResource.Cache
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\Synchronization  Client -Server\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.exe
+C:\Users\moammad\Desktop\Files Transfeer (from Client to Server and  from Server to Client)\Synchronization  Client -Server\image_transfeer_server\image_transfeer_server\obj\Debug\Files_transfeer_server.pdb
